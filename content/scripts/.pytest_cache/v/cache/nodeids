@@ -1,0 +1,13 @@
+[
+  "04_postgresql_image_container_creation.py::test_invalid_env_values[invalid_values0]",
+  "04_postgresql_image_container_creation.py::test_invalid_env_values[invalid_values1]",
+  "04_postgresql_image_container_creation.py::test_invalid_env_values[invalid_values2]",
+  "04_postgresql_image_container_creation.py::test_invalid_env_values[invalid_values3]",
+  "04_postgresql_image_container_creation.py::test_invalid_env_values[invalid_values4]",
+  "04_postgresql_image_container_creation.py::test_invalid_env_values[invalid_values5]",
+  "04_postgresql_image_container_creation.py::test_invalid_env_values[invalid_values6]",
+  "04_postgresql_image_container_creation.py::test_invalid_env_values[invalid_values7]",
+  "04_postgresql_image_container_creation.py::test_invalid_env_values[invalid_values8]",
+  "04_postgresql_image_container_creation.py::test_invalid_env_values[invalid_values9]",
+  "04_postgresql_image_container_creation.py::test_invalid_env_values[invalid_values10]"
+]

@@ -1,0 +1,5 @@
+baseURL = "http://conu.mateimicu.com"
+languageCode = "en-us"
+title = "mateimicu"
+theme = "hugo-theme-revealjs"
+enableRobotsTXT = true

@@ -4,9 +4,9 @@ import conu
 
 backend = conu.DockerBackend()
 
-image_ngix = backend.ImageClass('docker.io/library/nginx')
+image_nginx = backend.ImageClass('docker.io/library/nginx')
 
-container = image_ngix.run_via_binary()
+container = image_nginx.run_via_binary()
 
 input()
 backend.cleanup_images()

@@ -32,8 +32,6 @@ if container_ngix.is_port_open(80):
 else:
     print("******* Run FAILED")
 
-
-
 input()
 backend.cleanup_images()
 backend.cleanup_containers()
